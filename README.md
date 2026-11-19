@@ -1,7 +1,4 @@
 # Capa-do-Meu-Album
-Capa e conceito do álbum "Rumo Certo" (gcarmacio): 5 faixas sobre crença, valor, talento, medo e sonho. Projeto do curso técnico de Informática para Internet.
-# Rumo Certo — gcarmacio
-
 ![Capa do álbum Rumo Certo, de gcarmacio](capa-album.png)
 
 Capa e conceito de um álbum fictício de 5 faixas, criado como projeto do curso técnico de Informática para Internet. A proposta era resumir quem eu sou hoje em um disco: a capa mostra a minha identidade visual e cada faixa conta um pedaço da minha história.
